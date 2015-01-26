@@ -1,6 +1,5 @@
 # Crystallocrafty
 
-Crystallocrafty
 Created by Brendan Colón, Jessica Polka, and Eugene Lee
 
 This program will translate the secondary structure of proteins derived from structural data into crochet instructions. 
